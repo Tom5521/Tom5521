@@ -11,6 +11,7 @@ Arch Linux
 VS Code
 - Lenguaje Preferido?
 xonsh/python
+
 programo en mis ratos libres/cuando ando aburrido
 
 ### Acerca de ONEKO
