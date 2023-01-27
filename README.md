@@ -1,6 +1,6 @@
 ## Como anda la banda
 ### Soy un programador junior que programa con su amigo ONEKO!
-<img src="https://github.com/Tom5521/Tom5521/blob/0aa241b8a262fe2fad55bcf882d3817fb63549a7/G%20A%20T%20O.png" width="300px"><img src="http://www.dicas-l.com.br/imagens/Neko_animated.gif" alt="JuveR" width="300px">
+<img src="https://github.com/Tom5521/Tom5521/blob/f40a40b8b9151dcca45727ec354a8dbfd8296424/ONEKO!.png" width="300px"><img src="http://www.dicas-l.com.br/imagens/Neko_animated.gif" alt="JuveR" width="300px">
 
 ONEKO 100% real no fake captado en camara
 
