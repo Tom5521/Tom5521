@@ -11,6 +11,7 @@ Arch Linux
 - Mi editor?
 VS Code
 - Lenguaje Preferido?
+
 python y c++
 
 programo en mis ratos libres/cuando ando aburrido
