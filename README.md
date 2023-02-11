@@ -11,7 +11,7 @@ Arch Linux
 - Mi editor?
 VS Code
 - Lenguaje Preferido?
-xonsh/python
+python y c++
 
 programo en mis ratos libres/cuando ando aburrido
 
