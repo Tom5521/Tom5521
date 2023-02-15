@@ -16,7 +16,7 @@
 I program in my self time/when I am bored
 
 
-### Contact me by Discord through [Facebook](https://www.facebook.com/profile.php?id=100081151996025), [Reddit](https://www.reddit.com/user/Angel_Alderete) or [Twitter](https://twitter.com/Angel_Tomas2008)
+### Contact me through [Facebook](https://www.facebook.com/profile.php?id=100081151996025), [Reddit](https://www.reddit.com/user/Angel_Alderete) or [Twitter](https://twitter.com/Angel_Tomas2008)
 
 I take a long time to answer, for now I respond faster in Facebook so I recommend you talk to me from there
 
