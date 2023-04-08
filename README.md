@@ -15,9 +15,9 @@
     Python and C++
 
 I program in my spare time or when I'm bored
-### While this text will be a sign that I will be much less active for academic issues.
 
-##### Sorry about that, but I just don't have enough time!
+
+
 ### Contact me through [Facebook](https://www.facebook.com/profile.php?id=100081151996025), [Reddit](https://www.reddit.com/user/Angel_Alderete) or [Twitter](https://twitter.com/Angel_Tomas2008)
 
 It takes me a long time to respond, for now I respond faster in Facebook so I recommend you talk to me from there 
