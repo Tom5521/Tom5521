@@ -1,11 +1,7 @@
-# Hi, I'm Tom5521 or you can also call me Angel
+# Hi i'm Tom5521 <img src="http://www.dicas-l.com.br/imagens/Neko_animated.gif" width="30" />
 
-### I am a junior programmer who programs together with his friend ONEKO!
-<img src="https://github.com/Tom5521/Tom5521/blob/f40a40b8b9151dcca45727ec354a8dbfd8296424/ONEKO!.png" width="300px"><img src="http://www.dicas-l.com.br/imagens/Neko_animated.gif" width="300px">
+### I'm a junior programmer
 
-### An illustrative image of ONEKO
-
-### I am a big fan of Linux and open source and free software in general!
 
 - #### What OS i use?
     Arch Linux
