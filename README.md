@@ -4,7 +4,7 @@
 
 
 - #### What OS i use?
-    Arch Linux
+    ~~Arch Linux~~ Endeavour OS (I am too lazy to install arch)
 - #### My IDE?
     VS Code
 - #### Language preferred?
