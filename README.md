@@ -30,8 +30,7 @@ It takes me a long time to respond, for now I respond faster in Reddit so I reco
 <a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%"></a>
 <a href="https://archlinux.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="10%" width="10%"></a>
 ---
-
-<img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" width="300px"> I don't know what else to put here xd
+<img src="https://openseauserdata.com/files/1e581ef8080b486d226491f0dfe37b58.gif" width="300px"> I don't know what else to put here xd
 
 
 oh yes i am native spanish speaker so sorry for my bad english xd
