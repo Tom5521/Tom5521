@@ -33,7 +33,7 @@ It takes me a long time to respond, for now I respond faster in Reddit so I reco
 
 ---
 
-<a href="https://www.nyan.cat/"><img src="https://openseauserdata.com/files/1e581ef8080b486d226491f0dfe37b58.gif" height="30%" width="30%"></a> I don't know what else to put here xd
+<a href="https://www.nyan.cat/"><img src="https://www.nyan.cat/images/Collection11-20.gif" height="30%" width="30%"></a> I don't know what else to put here xd
 
 
 oh yes i am native spanish speaker so sorry for my bad english xd
