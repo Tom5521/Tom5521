@@ -18,7 +18,7 @@ I program in my spare time or when I'm bored
 
 
 
-### Contact me through [Reddit](https://www.reddit.com/user/Angel_Alderete) or [Twitter](https://twitter.com/Angel_Tomas2008)
+### Contact me through [Reddit](https://www.reddit.com/user/Sad-Technician3861) or [Twitter](https://twitter.com/Angel_Tomas2008)
 
 It takes me a long time to respond, for now I respond faster in Reddit so I recommend you talk to me from there 
 
