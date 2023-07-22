@@ -11,7 +11,7 @@
     Python and Go
 
 
-### Winter vacations are coming so I will be more active!!!! :D
+### ~~Winter vacations are coming so I will be more active!!!! :D~~
 
 ##### Sorry about that, but I just don't have enough time!
 I program in my spare time or when I'm bored
