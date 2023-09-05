@@ -1,5 +1,10 @@
 # Hi i'm Tom5521 or you can call me Angel <img src="http://www.dicas-l.com.br/imagens/Neko_animated.gif" width="30" />
 
+### When work and school call, the man has no other choice.
+
+Anyway, I don't have much time to develop and be active in github.... I got myself a life you could say... now I have friends, that... fuck... I didn't know they required so much time... but it's worth it... in vacations maybe I'll be back to how I was in February, anyway, I'll be very inactive these months, where I must give everything not to fail the semester.
+
+
 ### I'm a junior programmer
 
 
