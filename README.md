@@ -4,6 +4,7 @@
 
 Anyway, I don't have much time to develop and be active in github.... I got myself a life you could say... now I have friends, that... fuck... I didn't know they required so much time... but it's worth it... in vacations maybe I'll be back to how I was in February, anyway, I'll be very inactive these months, where I must give everything not to fail the semester.
 
+#### Have fun checking my code :D
 
 ### I'm a junior programmer
 
