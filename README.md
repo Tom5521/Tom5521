@@ -1,4 +1,4 @@
-# Hi i'm Tom5521 or you can call me Angel <img src="http://www.dicas-l.com.br/imagens/Neko_animated.gif" width="30" />
+# Hi i'm Tom5521 but you can call me Angel <img src="http://www.dicas-l.com.br/imagens/Neko_animated.gif" width="30" />
 
 ### When work and school call, the man has no other choice.
 
