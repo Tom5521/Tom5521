@@ -1,5 +1,10 @@
 # Hi i'm Tom5521 but you can call me Angel <img src="http://www.dicas-l.com.br/imagens/Neko_animated.gif" width="30" />
 
+![Tom GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom5521\&show_icons=true\&theme=dark\&include_all_commits=true\&rank_icon=github)
+
+[![Tom wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Tom5521\&theme=dark\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### When work and school call, the man has no other choice.
 
 Anyway, I don't have much time to develop and be active in github.... I got myself a life you could say... now I have friends, that... fuck... I didn't know they required so much time... but it's worth it... in vacations maybe I'll be back to how I was in February, anyway, I'll be very inactive these months, where I must give everything not to fail the semester.
