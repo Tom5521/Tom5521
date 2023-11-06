@@ -27,6 +27,8 @@ I program in my spare time or when I'm bored
 
 ### Contact me through [Reddit](https://www.reddit.com/user/Angel_Alderete) or [Twitter](https://twitter.com/Angel_Tomas2008)
 
+### Check [my github page](https://tom5521.github.io/)!
+
 It takes me a long time to respond, for now I respond faster in Reddit so I recommend you talk to me from there 
 
 ![](https://komarev.com/ghpvc/?username=Tom5521&color=green&style=flat-square)
