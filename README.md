@@ -9,17 +9,34 @@
 
 ### I'm a junior programmer
 
+### I'm learning:
+- SQL
+- Go
+- Go Tests
+- SQL integration with go
+- Lua (Only for neovim scripts)
+### I learned:
+- Python (basics)
+- Bash
+- Go (Bruh)
+- Linux system administration
+- Git
+- SSH
+- Fix a grub/kernel panic
+- Don't break Archlinux bootloader(impossible)
+- [Install arch](https://github.com/Tom5521/ArchLinuxInstaller) :DD
+- Markdown (for the readmes)
+- Making a good customization of a wm
+
 
 - #### What OS i use?
-    ~~Arch Linux~~ Endeavour OS (I am too lazy to install arch)
+    Endeavour OS
 - #### My IDE?
-    NeoVim
+    Neovim
 - #### Language preferred?
-    Python and Go
+    SQL and Go
 
 I program in my spare time or when I'm bored
-
-
 
 ### Contact me through [Reddit](https://www.reddit.com/user/Angel_Alderete) or [Twitter](https://twitter.com/Angel_Tomas2008)
 
