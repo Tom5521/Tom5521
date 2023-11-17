@@ -39,7 +39,7 @@ It takes me a long time to respond, for now I respond faster in Reddit so I reco
 ---
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Tom5521/Tom5521/blob/133b6f565a3ed94fa0a1feee7db68973f43a4f10/octocat-1689437268377.png" height="30%" width="30%"></a>
+
 <a href="https://www.nyan.cat/"><img src="https://www.nyan.cat/images/Collection11-20.gif" height="10%" width="20%"></a> 
 
 
