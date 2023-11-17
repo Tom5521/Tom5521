@@ -28,6 +28,7 @@
 - Markdown (for the readmes)
 - Making a good customization of a wm
 
+---
 
 - #### What OS i use?
     Endeavour OS
@@ -35,6 +36,8 @@
     Neovim
 - #### Language preferred?
     SQL and Go
+
+---
 
 I program in my spare time or when I'm bored
 
