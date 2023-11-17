@@ -5,10 +5,6 @@
 [![Tom wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Tom5521\&theme=dark\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### When work and school call, the man has no other choice.
-
-Anyway, I don't have much time to develop and be active in github.... I got myself a life you could say... now I have friends, that... fuck... I didn't know they required so much time... but it's worth it... in vacations maybe I'll be back to how I was in February, anyway, I'll be very inactive these months, where I must give everything not to fail the semester.
-
 #### Have fun checking my code :D
 
 ### I'm a junior programmer
