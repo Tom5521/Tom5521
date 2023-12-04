@@ -41,7 +41,7 @@
 
 I program in my spare time or when I'm bored
 
-### Contact me through [Reddit](https://www.reddit.com/user/Angel_Alderete) or [Twitter](https://twitter.com/Angel_Tomas2008)
+### Contact me through [Reddit](https://www.reddit.com/u/Sad-Technician3861) or [Twitter](https://twitter.com/Angel_Tomas2008)
 
 ### Check [my github page](https://tom5521.github.io/)!
 
