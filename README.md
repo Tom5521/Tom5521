@@ -31,7 +31,7 @@
 ---
 
 - #### What OS i use?
-    Endeavour OS
+    Arch Linux (Again)
 - #### My IDE?
     Neovim
 - #### Language preferred?
