@@ -70,3 +70,6 @@ It takes me a long time to respond, for now I respond faster in Reddit so I reco
 
 
 
+
+
+
