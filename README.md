@@ -44,6 +44,8 @@ It takes me a long time to respond, for now I respond faster in Reddit so I reco
 
 ![](https://komarev.com/ghpvc/?username=Tom5521&color=green&style=flat-square)
 
+---
+
 ### Interests
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" height="20%" width="20%"></a>
 <a href="https://go.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" height="20%" width="20%"></a>
@@ -58,9 +60,13 @@ It takes me a long time to respond, for now I respond faster in Reddit so I reco
 
 <a href="https://www.nyan.cat/"><img src="https://www.nyan.cat/images/Collection11-20.gif" height="10%" width="20%"></a> 
 
+---
+
 ### I identify myself as a born osaker
 
 ![img](https://github.com/Tom5521/Tom5521/blob/111843d149c6fabf76e0e577bcfb6936317fc0d2/Screenshot_dom%2004%20feb%202024%2023%3A37%3A03%20-03_.png)
+
+---
 
 ## Check my stats!
 
