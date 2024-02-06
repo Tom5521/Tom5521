@@ -2,7 +2,7 @@
 
 I program for fun and/or to make my life easier on my pc.
 
-**I am a native Spanish speaker so you will find spelling/grammatical errors in my projects.**
+**I am a native Spanish speaker so you will find spelling/grammatical errors in my projects. :'v**
 
 ### I'm learning:
 - SQL
