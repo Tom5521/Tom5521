@@ -71,6 +71,7 @@ It takes me a long time to respond, for now I respond faster in Reddit so I reco
 ## Check my stats!
 
 ![Tom GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom5521\&show_icons=true\&theme=dark\&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom5521&layout=donut\&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tom wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Tom5521\&theme=dark\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
