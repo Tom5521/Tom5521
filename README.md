@@ -53,12 +53,6 @@ It takes me a long time to respond, for now I respond faster in Reddit so I reco
 <a href="https://kernel.org"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="10%" width="10%"></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1920px-Gnu-bash-logo.svg.png" height="23%" width="23%"></a>
 
----
-
-
-### OMG IT'S THE FUCKING NYAN CAT
-
-<a href="https://www.nyan.cat/"><img src="https://www.nyan.cat/images/Collection11-20.gif" height="10%" width="20%"></a> 
 
 ---
 
