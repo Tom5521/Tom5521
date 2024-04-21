@@ -58,12 +58,6 @@ It takes me a long time to respond, for now I respond faster in Reddit so I reco
 
 ---
 
-### I identify myself as a born osaker
-
-![img](https://github.com/Tom5521/Tom5521/blob/111843d149c6fabf76e0e577bcfb6936317fc0d2/Screenshot_dom%2004%20feb%202024%2023%3A37%3A03%20-03_.png)
-
----
-
 ## Check my stats!
 
 ![Tom GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom5521\&show_icons=true\&theme=dark\&include_all_commits=true)
