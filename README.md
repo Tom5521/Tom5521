@@ -7,14 +7,12 @@ I program for fun and/or to make my life easier on my pc.
 **I am a native Spanish speaker so you will find spelling/grammatical errors in my projects. :'v**
 
 ### I'm learning:
-- SQL
-- Go
-- SQL integration with go
-- Lua (Only for neovim scripts)
+- Java
+- Gradle
 ### I learned:
 - Python (basics)
 - Bash
-- Go (Bruh)
+- Go
 - Linux system administration
 - Git
 - SSH
@@ -25,6 +23,8 @@ I program for fun and/or to make my life easier on my pc.
 - Markdown (for the readmes)
 - Making a good customization of a wm (I fucking love hyprland)
 - Configure waybar (I love jsonc)
+- SQL
+- Lua
 
 ---
 
