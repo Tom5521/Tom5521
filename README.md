@@ -16,6 +16,7 @@ Python basics, Bash, Go, Linux system administration, Git, SSH, Install Arch Lin
 **Current OS:** _Arch Linux_
 
 **Current IDE:** _Neovim with AstroNvim configuration_
+
 **Website:** [Tom5521.github.io](https://Tom5521.github.io)
 
 ## Contact
