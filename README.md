@@ -3,7 +3,7 @@
 
 I'm a self-taught person who enjoys learning, I'm "starting", so I've been 2 years, but as this is little in this world, don't expect me to be a senior programmer.
 
-## Currently I'm learning:
+## I'm currently learning:
 
 *Java & Gradle* because I need a job after high school
 
