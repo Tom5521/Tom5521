@@ -5,8 +5,7 @@ I'm a self-taught person who enjoys learning, I'm "starting", so I've been 2 yea
 
 ## I'm currently learning:
 
-- *Java & Gradle* because I need a job after high school
-- *ANTLR* because I'm tired of writing parsers/lexers
+- CPU architectures and x86 assembly.
 
 ## I have learned:
 
