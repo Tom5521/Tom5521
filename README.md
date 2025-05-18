@@ -1,7 +1,7 @@
 # Hi, I'm Tom
 [![wakatime](https://wakatime.com/badge/user/4a962261-a47f-4ecc-9bf4-60d7d5bb777a.svg)](https://wakatime.com/@4a962261-a47f-4ecc-9bf4-60d7d5bb777a)![](https://komarev.com/ghpvc/?username=Tom5521&color=green&style=flat-square)
 
-I'm a self-taught person who enjoys learning, I'm "starting", so I've been 2 years, but as this is little in this world, don't expect me to be a senior programmer.
+I'm a self-taught person who enjoys learning, I'm "starting", so I've been 5 years (2020), but as this is little in this world, don't expect me to be a senior programmer.
 
 ## I'm currently learning:
 
